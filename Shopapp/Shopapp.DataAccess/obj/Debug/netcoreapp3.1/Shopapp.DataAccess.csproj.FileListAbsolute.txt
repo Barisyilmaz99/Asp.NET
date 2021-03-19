@@ -1,0 +1,15 @@
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\bin\Debug\netcoreapp3.1\Shopapp.DataAccess.deps.json
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\bin\Debug\netcoreapp3.1\Shopapp.DataAccess.dll
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\bin\Debug\netcoreapp3.1\Shopapp.DataAccess.pdb
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\obj\Debug\netcoreapp3.1\Shopapp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\obj\Debug\netcoreapp3.1\Shopapp.DataAccess.AssemblyInfo.cs
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\obj\Debug\netcoreapp3.1\Shopapp.DataAccess.dll
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\obj\Debug\netcoreapp3.1\Shopapp.DataAccess.pdb
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\bin\Debug\netcoreapp3.1\Shopapp.Entities.dll
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\bin\Debug\netcoreapp3.1\Shopapp.Entities.pdb
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\obj\Debug\netcoreapp3.1\Shopapp.DataAccess.csprojAssemblyReference.cache
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\obj\Debug\netcoreapp3.1\Shopapp.DataAccess.csproj.CopyComplete
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\bin\Debug\netcoreapp3.1\Shopapp.DataAccess.runtimeconfig.json
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\bin\Debug\netcoreapp3.1\Shopapp.DataAccess.runtimeconfig.dev.json
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\obj\Debug\netcoreapp3.1\Shopapp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\Shopapp\Shopapp.DataAccess\obj\Debug\netcoreapp3.1\Shopapp.DataAccess.genruntimeconfig.cache

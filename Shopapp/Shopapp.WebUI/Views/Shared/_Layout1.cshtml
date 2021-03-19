@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="https://kit.fontawesome.com/85d288f4ad.js" crossorigin="anonymous"></script>
+    <link href="/modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~\Shopapp\Shopapp.WebUI\node_modules\bootstrap\dist\css\bootstrap.min.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+    <title>Knit It!</title>
+</head>
+<body>
+    <partial name="_navbar" />
+    <div class="container pt100 mb-5">
+        @RenderBody()
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="~\Shopapp\Shopapp.WebUI\node_modules\jquery\dist\jquery.min.js"></script>
+    <script src="~\Shopapp\Shopapp.WebUI\node_modules\bootstrap\dist\js\bootstrap.min.js"></script>
+
+    @RenderSection("Scripts",false)
+</body>
+</html>

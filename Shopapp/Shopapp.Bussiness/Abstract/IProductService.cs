@@ -1,0 +1,21 @@
+﻿using Shopapp.Entities;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Shopapp.Bussiness.Abstract
+{
+    public interface IProductService
+    {
+        List<Product> GetAll();
+        List<Product> GetProductsByCategory(string category,int page,int pageSize);
+        Product GetById(int id);
+        Product GetProductDetails(int id);
+        void Create(Product entity);
+        void Delete(Product entity);
+        void Update(Product entity);
+        int GetCountByCategory(string category);
+        Product GetByIdwithCategories(int id);
+        void Update(Product entity, int[] categoryIds);
+    }
+}
